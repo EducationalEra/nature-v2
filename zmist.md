@@ -13,39 +13,39 @@
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="home"><h3>10 клас</h3>
 <ul type="disc">
-<li><a href="http://nature-v2.ed-era.com/1/vstup.html">Вступ</a></li>
+<li><a href="https://informaticsmon59-new.ed-era.com/1/vstup.html">Вступ</a></li>
     <ul>
-        <li><a href="http://nature-v2.ed-era.com/1/1/ochikuvani_rezultaty.html">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
-        <li><a href="http://nature-v2.ed-era.com/1/1/zmist_navchalnoho_materialu.html">Зміст навчального матеріалу</a></li>
-        <li><a href="http://nature-v2.ed-era.com/1/1/praktychna_chastyna.html">Практична частина</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/1/1/ochikuvani_rezultaty.html">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/1/1/zmist_navchalnoho_materialu.html">Зміст навчального матеріалу</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/1/1/praktychna_chastyna.html">Практична частина</a></li>
     </ul>
-<li><a href="http://nature-v2.ed-era.com/1/vsesvit.html">Всесвіт</a></li>
+<li><a href="https://informaticsmon59-new.ed-era.com/1/vsesvit.html">Всесвіт</a></li>
     <ul>
-        <li><a href="http://nature-v2.ed-era.com/1/2/ochikuvani_rezultaty.html">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
-        <li><a href="http://nature-v2.ed-era.com/1/2/zmist_navchalnoho_materialu.html">Зміст навчального матеріалу</a></li>
-        <li><a href="http://nature-v2.ed-era.com/1/2/praktychna_chastyna.html">Практична частина</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/1/2/ochikuvani_rezultaty.html">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/1/2/zmist_navchalnoho_materialu.html">Зміст навчального матеріалу</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/1/2/praktychna_chastyna.html">Практична частина</a></li>
     </ul>
-<li><a href="http://nature-v2.ed-era.com/1/zemlya.html">Земля</a></li>
+<li><a href="https://informaticsmon59-new.ed-era.com/1/zemlya.html">Земля</a></li>
     <ul>
-        <li><a href="http://nature-v2.ed-era.com/1/3/ochikuvani_rezultaty.html">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
-        <li><a href="http://nature-v2.ed-era.com/1/3/zmist_navchalnoho_materialu.html">Зміст навчального матеріалу</a></li>
-        <li><a href="http://nature-v2.ed-era.com/1/3/praktychna_chastyna.html">Практична частина</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/1/3/ochikuvani_rezultaty.html">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/1/3/zmist_navchalnoho_materialu.html">Зміст навчального матеріалу</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/1/3/praktychna_chastyna.html">Практична частина</a></li>
     </ul>
 </ul>
 </div>
 <div role="tabpanel" class="tab-pane" id="menu1"><h3>11 клас</h3>
 <ul type="disc">
-<li><a href="http://nature-v2.ed-era.com/2/lydyna.html">Людина</a></li>
+<li><a href="https://informaticsmon59-new.ed-era.com/2/lydyna.html">Людина</a></li>
     <ul>
-        <li><a href="http://nature-v2.ed-era.com/2/1/ochikuvani_rezultaty.html">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
-        <li><a href="http://nature-v2.ed-era.com/2/1/zmist_navchalnoho_materialu.html">Зміст навчального матеріалу</a></li>
-        <li><a href="http://nature-v2.ed-era.com/2/1/praktychna_chastyna.html">Практична частина</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/2/1/ochikuvani_rezultaty.html">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/2/1/zmist_navchalnoho_materialu.html">Зміст навчального матеріалу</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/2/1/praktychna_chastyna.html">Практична частина</a></li>
     </ul>
-<li><a href="http://nature-v2.ed-era.com/2/tehnologii.html">Технології</a></li>
+<li><a href="https://informaticsmon59-new.ed-era.com/2/tehnologii.html">Технології</a></li>
     <ul>
-        <li><a href="http://nature-v2.ed-era.com/2/2/ochikuvani_rezultaty.html">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
-        <li><a href="http://nature-v2.ed-era.com/2/2/zmist_navchalnoho_materialu.html">Зміст навчального матеріалу</a></li>
-        <li><a href="http://nature-v2.ed-era.com/2/2/praktychna_chastyna.html">Практична частина</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/2/2/ochikuvani_rezultaty.html">Очікувані результати навчально-пізнавальної діяльності учнів</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/2/2/zmist_navchalnoho_materialu.html">Зміст навчального матеріалу</a></li>
+        <li><a href="https://informaticsmon59-new.ed-era.com/2/2/praktychna_chastyna.html">Практична частина</a></li>
     </ul>
 </ul>
 </div>
